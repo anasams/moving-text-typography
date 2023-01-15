@@ -15,7 +15,7 @@ graphic = createGraphics(500, 500)
 
 graphic.textFont(font)
 graphic.textSize(400)
-graphic.fill("#2fff40")
+graphic.fill("#000000")
 graphic.textAlign(CENTER, CENTER)
 graphic.text("no", width / 2, height / 2)
 
@@ -23,7 +23,7 @@ graphic2 = createGraphics(500, 500)
 
 graphic2.textFont(font)
 graphic2.textSize(400)
-graphic2.fill("#0000ff")
+graphic2.fill("#0f0d7c")
 graphic2.textAlign(CENTER, CENTER)
 graphic2.text("ja", width / 2, height / 2)
 
